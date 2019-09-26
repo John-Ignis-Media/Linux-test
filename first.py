@@ -1,1 +1,1 @@
-print "Hello Napier, this is from github"
+print "Hello from Napier to github"
